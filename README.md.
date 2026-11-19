@@ -1,0 +1,10 @@
+# Week 4 Assignment: Functions and Parameters
+
+## Assignment Files
+
+- **welcome.py:** Defines a welcome function that returns a greeting for different people.
+- **toolbox.py:** Contains three functions: double, is_pass, and greet.
+
+## Reflection
+
+The hardest function to write was `greet()` because it uses a default parameter. I learned how to provide a default greeting while still allowing the user to supply a different greeting.
